@@ -1,8 +1,7 @@
 # 3D Environment Reconstruction from 2D Images
 
 **Classical SfM / MVS + 3D Gaussian Splatting on the DTU Robot Image Dataset**
-
-| **Platform** | Kaggle GPU Notebook (NVIDIA T4) |
+**Platform** | Kaggle GPU Notebook (NVIDIA T4) |
 | **Core stack** | Python · PyTorch · OpenCV · Open3D · gsplat · plyfile · SciPy |
 
 ---
