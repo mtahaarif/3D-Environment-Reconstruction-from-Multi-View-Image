@@ -4,7 +4,7 @@
 **Platform** | Kaggle GPU Notebook (NVIDIA T4) |
 | **Core stack** | Python · PyTorch · OpenCV · Open3D · gsplat · plyfile · SciPy |
 
----
+----
 
 ## Table of Contents
 
